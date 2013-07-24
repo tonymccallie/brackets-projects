@@ -1,0 +1,12 @@
+{
+    "name": "brackets-projects",
+    "description": "Project extension for Brackets.",
+    "version": "0.0.1",
+    "keywords": ["brackets", "projects"],
+    "homepage": "https://github.com/tonymccallie/brackets-projects/",
+    "bugs": "https://github.com/tonymccallie/brackets-projects/issues",
+    "repository" : { 
+        "type" : "git",
+         "url" : "https://github.com/tonymccallie/brackets-projects.git"
+    }
+}
